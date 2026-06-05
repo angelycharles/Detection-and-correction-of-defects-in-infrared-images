@@ -5,4 +5,4 @@ The goal of the code was to be as fast as possible, in order to quickly select a
 1.confirm whether they are true defects
 2.precisely localize their spatial extent
 
-This second step was unfortunately not achieved. However, in its current form, the algorithm performs well and is able to clean the images effectively.Although the data challenge is completed, further investigations could still be conducted to identify the issues encountered, analyze them, and explore potential solutions.
+This second step was unfortunately not achieved. However, in its current form, the algorithm performs well and is able to clean the images effectively. Although the data challenge is completed, further investigations could still be conducted to identify the issues encountered, analyze them, and explore potential solutions.
