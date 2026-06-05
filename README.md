@@ -1,0 +1,1 @@
+# Detection-and-correction-of-defects-in-infrared-images
